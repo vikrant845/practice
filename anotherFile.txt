@@ -1,1 +1,1 @@
-This is the content of another file.
+This is the content of another file. This is modified anotherFile.
